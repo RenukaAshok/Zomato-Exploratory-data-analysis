@@ -1,15 +1,17 @@
 # Zomato-Exploratory-data-analysis
 roject Overview
 
-This project aims to analyze Zomato's restaurant dataset to extract meaningful insights about restaurant ratings, pricing, cuisines, and customer preferences across different locations. The analysis includes exploratory data analysis (EDA), data visualization, and statistical insights.
+This project aims to analyze Zomato's restaurant dataset to extract meaningful insights about restaurant ratings, pricing, cuisines, and customer preferences across different locations. The analysis includes exploratory data analysis (EDA), data visualization, and statistical insights and also recommend the enterprenurs to start their new hotels and recommend the locations and also it will analyse and tell the hotels with the less price and good quality food and finally it is like the Recommendation System.
 
-Dataset
+I really get fascinated by good quality food being served in the restaurants and would like to help community find the best cuisines around their area.
 
-Source: 
+About this dataset:
 
-File Name: zomato.csv
+Dataset : Zomato.csv
 
-Columns:
+Source: Kaggle
+
+The collected data has been stored in the Comma Separated Value file Zomato.csv. Each restaurant in the dataset is uniquely identified by its Restaurant Id. Every Restaurant contains the following variables:
 
 Restaurant ID
 
@@ -63,34 +65,18 @@ Project Steps
 
 *Price range vs. rating correlation
 
+Inferences :
 
-Requirements
+Higher-rated restaurants often have a higher price range, but some budget-friendly ones also perform well.
 
-Ensure you have the following dependencies installed:
+Restaurants are widely distributed globally, with a focus on major cities.
 
-pip install pandas numpy matplotlib seaborn
+Many top-rated restaurants offer online delivery, while expensive ones often prioritize dine-in.
 
-How to Run :
+The top five restaurants excel in quality and service.
 
-Clone the repository:
+Ideal locations for startups include high-traffic and tourist areas.
 
-git clone https://github.com/RenukaAshok/Zomato-Exploratory-data-analysis
-cd zomato-data-analysis
+Budget-friendly, high-quality food thrives in student and working-class regions.
 
-Run the Jupyter Notebook or Python script:
 
-jupyter notebook
-
-or
-
-python analysis.py
-
-Contributing
-
-Feel free to contribute to this project by:
-
-Improving data visualizations
-
-Adding new features
-
-Refining insights
