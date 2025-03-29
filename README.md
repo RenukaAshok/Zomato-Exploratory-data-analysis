@@ -5,7 +5,7 @@ This project aims to analyze Zomato's restaurant dataset to extract meaningful i
 
 Dataset
 
-Source: Kaggle Zomato Dataset
+Source: 
 
 File Name: zomato.csv
 
@@ -21,14 +21,6 @@ City
 
 Address
 
-Locality
-
-Locality Verbose
-
-Longitude
-
-Latitude
-
 Cuisines
 
 Average Cost for two
@@ -38,10 +30,6 @@ Currency
 Has Table booking
 
 Has Online delivery
-
-Is delivering now
-
-Switch to order menu
 
 Price range
 
@@ -55,43 +43,26 @@ Votes
 
 Project Steps
 
-Data Preprocessing
+*Data Preprocessing
 
-Importing necessary libraries
+*Importing necessary libraries
 
-Loading the dataset
+*Loading the dataset
 
-Handling missing values
+*Handling missing values
 
-Removing duplicates
+*Removing duplicates
 
-Data type conversion
+*Exploratory Data Analysis (EDA)
 
-Exploratory Data Analysis (EDA)
+*Data Visualization
 
-Summary statistics
+*Bar plots, scatter plots, and heatmaps
 
-Distribution of ratings and votes
+*Top-rated restaurants by location
 
-Restaurant count by city
+*Price range vs. rating correlation
 
-Cuisine popularity analysis
-
-Data Visualization
-
-Bar plots, scatter plots, and heatmaps
-
-Top-rated restaurants by location
-
-Price range vs. rating correlation
-
-Insights & Conclusions
-
-Identifying customer preferences
-
-Impact of pricing on ratings
-
-Availability of online delivery and its impact
 
 Requirements
 
@@ -99,11 +70,11 @@ Ensure you have the following dependencies installed:
 
 pip install pandas numpy matplotlib seaborn
 
-How to Run
+How to Run :
 
 Clone the repository:
 
-git clone <repo-url>
+git clone https://github.com/RenukaAshok/Zomato-Exploratory-data-analysis
 cd zomato-data-analysis
 
 Run the Jupyter Notebook or Python script:
