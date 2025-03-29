@@ -1,11 +1,12 @@
 # Zomato-Exploratory-data-analysis
-Overview :
+
+## Overview
 
 This project aims to analyze Zomato's restaurant dataset to extract meaningful insights about restaurant ratings, pricing, cuisines, and customer preferences across different locations. The analysis includes exploratory data analysis (EDA), data visualization, and statistical insights and also recommend the enterprenurs to start their new hotels and recommend the locations and also it will analyse and tell the hotels with the less price and good quality food and finally it is like the Recommendation System.
 
 I really get fascinated by good quality food being served in the restaurants and would like to help community find the best cuisines around their area.
 
-About this dataset:
+## Dataset
 
 Dataset : Zomato.csv
 
@@ -44,7 +45,7 @@ Rating text
 Votes
 
 
-Project Steps :
+## Project Steps
 
 *Data Preprocessing
 
@@ -66,7 +67,7 @@ Project Steps :
 
 *Price range vs. rating correlation
 
-Inferences :
+## Inferences 
 
 Higher-rated restaurants often have a higher price range, but some budget-friendly ones also perform well.
 
