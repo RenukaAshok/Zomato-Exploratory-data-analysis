@@ -1,5 +1,5 @@
 # Zomato-Exploratory-data-analysis
-roject Overview
+Overview :
 
 This project aims to analyze Zomato's restaurant dataset to extract meaningful insights about restaurant ratings, pricing, cuisines, and customer preferences across different locations. The analysis includes exploratory data analysis (EDA), data visualization, and statistical insights and also recommend the enterprenurs to start their new hotels and recommend the locations and also it will analyse and tell the hotels with the less price and good quality food and finally it is like the Recommendation System.
 
