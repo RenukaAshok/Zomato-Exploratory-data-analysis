@@ -43,7 +43,8 @@ Rating text
 
 Votes
 
-Project Steps
+
+Project Steps :
 
 *Data Preprocessing
 
